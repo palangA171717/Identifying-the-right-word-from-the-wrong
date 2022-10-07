@@ -1,6 +1,5 @@
 
 from tkinter import *
-from tkinter import Entry
 def a():
     Q=e.get()
     m=str(Q).lower()
